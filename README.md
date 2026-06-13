@@ -1,11 +1,11 @@
 # Project_UAS_Aljabar-Matriks_2515061033_Muhammad-Izzul-Muslimin
 
-Proyek ini adalah implementasi *library* operasi aljabar matriks yang dibuat dari nol tanpa menggunakan library eksternal seperti NumPy. Dibuat untuk memenuhi tugas Ujian Akhir Semester (UAS) mata kuliah Struktur Data.
+Proyek ini adalah implementasi library operasi aljabar matriks yang dibuat dari nol tanpa menggunakan library eksternal seperti NumPy. Dibuat untuk memenuhi tugas Ujian Akhir Semester (UAS) mata kuliah Aljabar Matriks.
 
 ## Fitur Modul
 Modul ini mencakup berbagai operasi dasar hingga tingkat lanjut pada matriks, di antaranya:
 - Penjumlahan dan Pengurangan Matriks
-- Perkalian Matriks (Skalar & Matriks)
+- Perkalian Matriks
 - Transpose Matriks
 
 ## Cara Penggunaan
