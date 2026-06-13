@@ -16,3 +16,4 @@ Untuk menggunakan modul ini, pastikan file `izzul033.py` (modul) dan file progra
    import izzul033 as izy
 
 ## Link YouTube
+https://youtu.be/3twQvrcndOw
